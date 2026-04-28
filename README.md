@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=22&pause=1200&color=FF8FC7&center=true&vCenter=true&width=620&lines=喵喵喵;喵喵喵;喵喵喵;喵喵喵;再看哈吉咪就哈气了喵;喵喵喵;哈！！！" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=22&pause=1200&color=FF8FC7&center=true&vCenter=true&width=620&lines=%E5%96%B5%E5%96%B5%E5%96%B5;%E5%96%B5%E5%96%B5%E5%96%B5;%E5%96%B5%E5%96%B5%E5%96%B5;%E5%96%B5%E5%96%B5%E5%96%B5;%E5%86%8D%E7%9C%8B%E5%93%88%E5%90%89%E5%92%AA%E5%B0%B1%E5%93%88%E6%B0%94%E4%BA%86%E5%96%B5;%E5%96%B5%E5%96%B5%E5%96%B5;%E5%93%88%EF%BC%81%EF%BC%81%EF%BC%81" />
 
 <br/>
 
